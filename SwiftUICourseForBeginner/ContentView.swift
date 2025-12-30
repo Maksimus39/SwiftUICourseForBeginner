@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  SwiftUICourseForBeginner
-//
-//  Created by Максим Минаков on 30.12.2025.
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -22,3 +15,7 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+
+
+
